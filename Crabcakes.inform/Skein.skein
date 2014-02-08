@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x8bcd288" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>GNOME Inform 7</generator>
+  <activeNode nodeId="node-0x8bcd6c0"/>
+  <item nodeId="node-0x8bcd288">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+
+Crabcakes
+An Interactive Fiction by Cake or Death
+Release 1 / Serial number 140208 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+
+Ocean floor
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bcd5e8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bcd5e8">
+    <command xml:space="preserve">about</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bcd6c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bcd6c0">
+    <command xml:space="preserve">version</command>
+    <result xml:space="preserve">Crabcakes
+An Interactive Fiction by Cake or Death
+Release 1 / Serial number 140208 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+Identification number: //C26056DE-90E6-11E3-A66C-D0DF9AF4DC12//
+Standard interpreter 1.1 (1F) / Library serial number 080126
+Standard Rules version 2/090402 by Graham Nelson
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
